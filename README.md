@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aringuzel
 - 👀 I’m interested in coding(Software Engineer)
-- 🌱 I’m currently learning Python- First mini project:https://replit.com/@guzel1/Debit-Card-Generator?v=1
+- 🌱 I’m currently learning Python- First mini project: https://replit.com/@guzel1/Debit-Card-Generator?v=1
 - 📫 How to reach me guzelarin@gmail.com
 
 <!---
