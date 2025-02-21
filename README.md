@@ -3,9 +3,9 @@
 <!--
 **aringuzel/aringuzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
 
-<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=aringuzel&layout=compact"/>
+<img alt="top languages" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=aringuzel&layout=compact"/>
 
 
 ## Codewars
