@@ -4,7 +4,7 @@
 -->
 | My Stats | Top Languages |
 |----------|--------------|
-| <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/> | <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=compact"/> |
+| <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/> | <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=donut"/> |
 
 
 ## Codewars
