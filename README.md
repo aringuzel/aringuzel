@@ -1,4 +1,4 @@
-<div font-size="100px"><strong>Hi there 👋</strong></div>
+<strong>Hi there 👋</strong>
 <!--
 **aringuzel/aringuzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
