@@ -2,10 +2,13 @@
 <!--
 **aringuzel/aringuzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center">
+<!--div align="center">
   <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=donut"/>
-</div>
+</div-->
+| My Stats | Top Languages |
+|----------|--------------|
+| <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/> | <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=compact"/> |
 
 
 ## Codewars
