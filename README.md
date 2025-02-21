@@ -4,7 +4,7 @@
 -->
 <div align="center">
   <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=pie"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=donut"/>
 </div>
 
 
