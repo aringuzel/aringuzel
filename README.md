@@ -5,11 +5,12 @@
 -->
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
 
-<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=donut"/>
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/ username=aringuzel&layout=donut"/>
 
 
 
 
+## 
 ## Codewars
 ![Codewars](https://www.codewars.com/users/guzel1/badges/large)
 
