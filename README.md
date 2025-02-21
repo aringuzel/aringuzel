@@ -5,7 +5,7 @@
 -->
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
 
-<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?/top-langs/username=aringuzel&layout=compact"/>
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=aringuzel&layout=compact"/>
 
 
 ## Codewars
