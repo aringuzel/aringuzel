@@ -4,7 +4,7 @@
 **aringuzel/aringuzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <img alt="My stats" align="left" src="https://github-readme-stats.vercel.app/api?username=aringuzel&show_icons=true"/>
-<img alt="Top languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=compact"/>
+<img alt="Top languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=compact"/>
 
 ## Codewars
 ![Codewars](https://www.codewars.com/users/guzel1/badges/large)
