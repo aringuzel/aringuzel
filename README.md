@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aringuzel&layout=donut)
 
 ## Codewars
-[Codewars](https://www.codewars.com/users/guzel1/badges/large)
+![Codewars](https://www.codewars.com/users/guzel1/badges/large)
